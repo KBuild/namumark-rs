@@ -1,0 +1,10 @@
+[package]
+name = "NamuMark"
+version = "0.1.0"
+authors = ["kbuild"]
+license = "MIT"
+
+[dependencies]
+regex = "*"
+lazy_static = "*"
+
